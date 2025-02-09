@@ -1,3 +1,3 @@
 module.exports = {
-    TOKEN: 'BOT TOKENI'
+    TOKEN: 'BOT TOKEN'
 };
