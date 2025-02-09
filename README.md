@@ -1,8 +1,8 @@
-# Discord priw botu
+# Discord priw bot
 nasil kurulur?
-> node modullerini kurup config.js dosyasını doldurun.
-ardından terminalde açıp 
-> node index.js yazın
+> install the node modules and edit config.js
+> and type
+> node index.js on the terminal
 
 
-developed by cihan 💙
+developed by leak 💙
